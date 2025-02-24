@@ -1,10 +1,10 @@
 // acquisizione dei dati
-const age= prompt ('Inserisci la tua età');
-const numberKilo = prompt ('Inserisci il kilometraggio');
-console.log(age)
-console.log(numberKilo)
+let age= prompt ('Inserisci la tua età');
+let numberKilo = prompt ('Inserisci il kilometraggio');
+let priceUnder =
 
+// conversione da stringa a numero
+age = parseInt(age);
+numberKilo = parseInt(numberKilo);
 
-
-// calcolo prezzo in base al km
 
